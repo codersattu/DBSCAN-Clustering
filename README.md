@@ -1,4 +1,4 @@
-# ML3 Mini Project: Clustering Analysis on NHANES Dataset
+# DBSCAN Clustering Analysis on NHANES Dataset
 
 This project explores clustering techniques to segment patients based on the National Health and Nutrition Examination Survey (NHANES) data. The analysis involves comprehensive data preprocessing, feature transformation, and the application of clustering algorithms such as KMeans and DBSCAN.
 
